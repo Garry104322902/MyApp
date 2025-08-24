@@ -15,10 +15,9 @@ This is a published .NET 7 console application written in C# that demonstrates t
 
 ### Step 1: Clone the Repository
 
-Open your Terminal and run:
-
-git clone https://github.com/Garry104322902/MyApp.git
-cd MyApp/MyApp
+- Open your Terminal and run:
+- git clone https://github.com/Garry104322902/MyApp.git
+- cd MyApp/MyApp
 
 #### Step 2: Run the Application
 
