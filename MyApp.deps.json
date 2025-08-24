@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MyApp/1.0.0": {
+        "dependencies": {
+          "MathLib": "1.0.0",
+          "MyLibrary": "1.0.0"
+        },
+        "runtime": {
+          "MyApp.dll": {}
+        }
+      },
+      "MathLib/1.0.0": {
+        "runtime": {
+          "MathLib.dll": {}
+        }
+      },
+      "MyLibrary/1.0.0": {
+        "runtime": {
+          "MyLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MathLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
